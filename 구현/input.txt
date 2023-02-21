@@ -1,4 +1,4 @@
-3
-happy
-new
-year
+3 3
+ABC
+DEF
+2

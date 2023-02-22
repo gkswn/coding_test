@@ -1,6 +1,4 @@
 from collections import deque
-import sys
-sys.stdin = open('C:\\Users\\안한주\\Desktop\\coding_test\\DFS,BFS\\input.txt')
 
 #################
 

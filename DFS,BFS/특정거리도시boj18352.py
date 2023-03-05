@@ -19,5 +19,5 @@ def bfs(start):
     while q:
         now = q.popleft()
         for i in range(m):
-
-        
+            pass
+            
